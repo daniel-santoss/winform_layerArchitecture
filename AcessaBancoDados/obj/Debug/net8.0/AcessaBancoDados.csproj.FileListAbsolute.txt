@@ -1,0 +1,13 @@
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\bin\Debug\net8.0\AcessaBancoDados.dll.config
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\bin\Debug\net8.0\AcessaBancoDados.deps.json
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\bin\Debug\net8.0\AcessaBancoDados.dll
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\bin\Debug\net8.0\AcessaBancoDados.pdb
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\obj\Debug\net8.0\AcessaBancoDados.csproj.AssemblyReference.cache
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\obj\Debug\net8.0\AcessaBancoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\obj\Debug\net8.0\AcessaBancoDados.AssemblyInfoInputs.cache
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\obj\Debug\net8.0\AcessaBancoDados.AssemblyInfo.cs
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\obj\Debug\net8.0\AcessaBancoDados.csproj.CoreCompileInputs.cache
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\obj\Debug\net8.0\AcessaBancoDados.dll
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\obj\Debug\net8.0\refint\AcessaBancoDados.dll
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\obj\Debug\net8.0\AcessaBancoDados.pdb
+C:\Projetos - Daniel\Temporada1\AcessaBancoDados\obj\Debug\net8.0\ref\AcessaBancoDados.dll

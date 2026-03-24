@@ -1,0 +1,11 @@
+C:\Projetos - Daniel\Temporada1\ObjetoTransferencia\bin\Debug\net8.0\ObjetoTransferencia.deps.json
+C:\Projetos - Daniel\Temporada1\ObjetoTransferencia\bin\Debug\net8.0\ObjetoTransferencia.dll
+C:\Projetos - Daniel\Temporada1\ObjetoTransferencia\bin\Debug\net8.0\ObjetoTransferencia.pdb
+C:\Projetos - Daniel\Temporada1\ObjetoTransferencia\obj\Debug\net8.0\ObjetoTransferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos - Daniel\Temporada1\ObjetoTransferencia\obj\Debug\net8.0\ObjetoTransferencia.AssemblyInfoInputs.cache
+C:\Projetos - Daniel\Temporada1\ObjetoTransferencia\obj\Debug\net8.0\ObjetoTransferencia.AssemblyInfo.cs
+C:\Projetos - Daniel\Temporada1\ObjetoTransferencia\obj\Debug\net8.0\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+C:\Projetos - Daniel\Temporada1\ObjetoTransferencia\obj\Debug\net8.0\ObjetoTransferencia.dll
+C:\Projetos - Daniel\Temporada1\ObjetoTransferencia\obj\Debug\net8.0\refint\ObjetoTransferencia.dll
+C:\Projetos - Daniel\Temporada1\ObjetoTransferencia\obj\Debug\net8.0\ObjetoTransferencia.pdb
+C:\Projetos - Daniel\Temporada1\ObjetoTransferencia\obj\Debug\net8.0\ref\ObjetoTransferencia.dll
