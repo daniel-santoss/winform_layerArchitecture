@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{E36E0F11-A92F-467B-B5CA-1C5ACD807915}|Apresentacao\\Apresentacao.csproj|solutionrelative:apresentacao\\frmclienteselecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E36E0F11-A92F-467B-B5CA-1C5ACD807915}|Apresentacao\\Apresentacao.csproj|C:\\Projetos - Daniel\\Temporada1\\apresentacao\\frmclienteselecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E36E0F11-A92F-467B-B5CA-1C5ACD807915}|Apresentacao\\Apresentacao.csproj|c:\\projetos - daniel\\temporada1\\apresentacao\\frmclienteselecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E36E0F11-A92F-467B-B5CA-1C5ACD807915}|Apresentacao\\Apresentacao.csproj|solutionrelative:apresentacao\\frmclienteselecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E0F11-A92F-467B-B5CA-1C5ACD807915}|Apresentacao\\Apresentacao.csproj|c:\\projetos - daniel\\temporada1\\apresentacao\\frmclienteselecionar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36E0F11-A92F-467B-B5CA-1C5ACD807915}|Apresentacao\\Apresentacao.csproj|solutionrelative:apresentacao\\frmclienteselecionar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3319E0D3-20C9-422A-A416-42607E94C0BC}|Negocios\\Negocios.csproj|c:\\projetos - daniel\\temporada1\\negocios\\clientenegocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 306,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -44,9 +52,9 @@
               "RelativeDocumentMoniker": "Apresentacao\\FrmClienteSelecionar.cs",
               "ToolTip": "C:\\Projetos - Daniel\\Temporada1\\Apresentacao\\FrmClienteSelecionar.cs",
               "RelativeToolTip": "Apresentacao\\FrmClienteSelecionar.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwEYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T19:45:09.71Z",
+              "WhenOpened": "2026-07-24T13:49:55.984Z",
               "EditorCaption": ""
             },
             {
@@ -58,19 +66,34 @@
               "ToolTip": "C:\\Projetos - Daniel\\Temporada1\\Apresentacao\\FrmClienteSelecionar.cs [Projeto]",
               "RelativeToolTip": "Apresentacao\\FrmClienteSelecionar.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T19:45:03.768Z"
+              "WhenOpened": "2026-07-24T13:47:19.565Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FrmClienteSelecionar.Designer.cs",
+              "DocumentMoniker": "C:\\Projetos - Daniel\\Temporada1\\Apresentacao\\FrmClienteSelecionar.Designer.cs",
+              "RelativeDocumentMoniker": "Apresentacao\\FrmClienteSelecionar.Designer.cs",
+              "ToolTip": "C:\\Projetos - Daniel\\Temporada1\\Apresentacao\\FrmClienteSelecionar.Designer.cs",
+              "RelativeToolTip": "Apresentacao\\FrmClienteSelecionar.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAwwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T13:27:17.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ClienteNegocios.cs",
               "DocumentMoniker": "C:\\Projetos - Daniel\\Temporada1\\Negocios\\ClienteNegocios.cs",
               "RelativeDocumentMoniker": "Negocios\\ClienteNegocios.cs",
               "ToolTip": "C:\\Projetos - Daniel\\Temporada1\\Negocios\\ClienteNegocios.cs",
               "RelativeToolTip": "Negocios\\ClienteNegocios.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAowH4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAIwHsAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T19:36:01.585Z"
+              "WhenOpened": "2026-03-23T19:36:01.585Z",
+              "EditorCaption": ""
             }
           ]
         }

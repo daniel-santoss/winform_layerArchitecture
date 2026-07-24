@@ -65,3 +65,4 @@ C:\Projetos - Daniel\Temporada1\Apresentacao\bin\Debug\net8.0-windows\AcessaBanc
 C:\Projetos - Daniel\Temporada1\Apresentacao\bin\Debug\net8.0-windows\AcessaBancoDados.dll.config
 C:\Projetos - Daniel\Temporada1\Apresentacao\obj\Debug\net8.0-windows\Apresentacao.csproj.AssemblyReference.cache
 C:\Projetos - Daniel\Temporada1\Apresentacao\obj\Debug\net8.0-windows\Apresent.076B8766.Up2Date
+C:\Projetos - Daniel\Temporada1\Apresentacao\obj\Debug\net8.0-windows\Apresentacao.sourcelink.json
